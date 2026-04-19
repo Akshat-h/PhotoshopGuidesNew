@@ -1,13 +1,23 @@
 ---
-layout: post
-title: Detailed Guide
+title: Detailed Guides Index
+date: 2026-04-20 00:00:00 +0000
+categories: [Photoshop, Index]
+tags: [guides, navigation]
 ---
 
-Here is a detailed guide about various topics.
+## Detailed Guides
 
 <ul>
-<li><a href="{{ '/posts/3D/' | relative_url }}">3D</a></li>
-<!-- Other list items -->
+    <li><a href="{{ '/posts/General/' | relative_url }}">General</a></li>
+    <li><a href="{{ '/posts/Interface/' | relative_url }}">Interface</a></li>
+    <li><a href="{{ '/posts/Workspace/' | relative_url }}">Workspace</a></li>
+    <li><a href="{{ '/posts/Notifications/' | relative_url }}">Notifications</a></li>
+    <li><a href="{{ '/posts/Tools/' | relative_url }}">Tools</a></li>
+    <li><a href="{{ '/posts/File-Handling/' | relative_url }}">File Handling</a></li>
+    <li><a href="{{ '/posts/Performance/' | relative_url }}">Performance</a></li>
+    <li><a href="{{ '/posts/Scratch-Disks/' | relative_url }}">Scratch Disks</a></li>
+    <li><a href="{{ '/posts/Cursors/' | relative_url }}">Cursors</a></li>
+    <li><a href="{{ '/posts/Plug-Ins/' | relative_url }}">Plug-Ins</a></li>
+    <li><a href="{{ '/posts/Type/' | relative_url }}">Type</a></li>
+    <li><a href="{{ '/posts/3D/' | relative_url }}">3D</a></li>
 </ul>
-
-More content to follow...
