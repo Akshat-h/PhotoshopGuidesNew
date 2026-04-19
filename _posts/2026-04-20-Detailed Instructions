@@ -13,7 +13,7 @@ tags: [guides, navigation]
         <li><a href="{{ '/posts/Workspace' | relative_url }}">Workspace</a>
         <li><a href="{{ '/posts/Notifications' | relative_url }}">Notifications</a>
         <li><a href="{{ '/posts/Tools' | relative_url }}">Tools</a>
-        <li><a href="{{ '/posts/File Handling' | relative_url }}">File Handling</a>
+        <li><a href="{{ '/posts/File-Handling' | relative_url }}">File Handling</a>
         <li><a href="{{ '/posts/Performance' | relative_url }}">Performance</a>
         <li><a href="{{ '/posts/Scratch Disks' | relative_url }}">Scratch Disks</a>
         <li><a href="{{ '/posts/Cursors' | relative_url }}">Cursors</a>
