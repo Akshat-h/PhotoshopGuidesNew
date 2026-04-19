@@ -1,5 +1,5 @@
 ---
-title: Workspace Preferences - Optimizing Screen Real Estate
+title: "Workspace Preferences: Optimizing Screen Real Estate"
 date: 2026-04-20 00:00:00 +0000
 categories: [Photoshop, Interface]
 tags: [workspace, panels, UI, layout]
