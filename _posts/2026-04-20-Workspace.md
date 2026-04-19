@@ -6,13 +6,6 @@ categories: [Photoshop, Interface]
 tags: [workspace, panels, UI, layout]
 ---
 
-date: 2026-04-20 00:00:00 +0000
-categories: [Photoshop, Basics]
-tags: [layers, masks, tutorial]
----
-
-
-
 ## Workspace Preferences: Optimizing Screen Real Estate
 
 Your workspace settings dictate how documents and menus behave on your screen. Optimizing these can give you significantly more room for your actual canvas by reducing UI clutter, which is especially important if you are working on a laptop or a single-monitor setup.
