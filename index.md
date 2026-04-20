@@ -8,7 +8,6 @@ Welcome to the Photoshop Guides wiki.
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/mmistakes/so-simple-theme/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg?style=flat-square)](https://jekyllrb.com/)
 [![Required](https://img.shields.io/badge/required-Photoshop%20CC%202020%2B-blue.svg?style=flat-square&logo=adobe)](https://www.adobe.com/products/photoshop.html)
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-.me-green.svg?style=flat-square&logo=paypal)](https://www.paypal.me/akshathazare)
 [![Buy ME a ko-fi](https://img.shields.io/badge/Buy%20me%20a%20%20-ko--fi-red.svg?style=flat-square&logo=ko-fi)](https://ko-fi.com/messymango)
 
 ✨ **If you enjoy my guides, please consider [supporting me](https://ko-fi.com/messymango) for developing and maintaining it.**
