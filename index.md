@@ -3,8 +3,6 @@ layout: page
 title: Photoshop Guides
 ---
 
-# Photoshop Guides
-
 Welcome to the Photoshop Guides wiki.
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/mmistakes/so-simple-theme/master/LICENSE)
