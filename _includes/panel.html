@@ -1,0 +1,17 @@
+{% comment %}
+  The panel on the right side.
+{% endcomment %}
+
+<aside id="panel-wrapper" class="col-xl-3 ps-2 text-muted">
+  <div class="access">
+    {% include toc.html %}
+
+    {% include update-list.html %}
+
+    {% include trending-tags.html %}
+  </div>
+
+  {% for include_shared in layout.include_shared %}
+    {% include {{ include_shared }} %}
+  {% endfor %}
+</aside>
