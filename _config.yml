@@ -15,23 +15,23 @@ timezone: UTC
 title: Photoshop Guides
 tagline: Professional tutorials and resources for graphic designers
 description: >-
-  Expert guides on Photoshop, branding, logo design, and vectorization services.
+  Best settings for Adobe Photoshop CC for best performance and productivity.
 
 # Fill in the protocol & hostname for your site.
 url: "https://photoshopguides.github.io"
 
 github:
-  username: photoshopguides
+  username: #photoshopguides
 
 twitter:
-  username: photoshopguides
+  username: #photoshopguides
 
 social:
   name: Photoshop Guides
-  email: contact@photoshopguides.github.io
+  email: #contact@photoshopguides.github.io
   links:
-    - https://github.com/photoshopguides
-    - https://twitter.com/photoshopguides
+    - #https://github.com/photoshopguides
+    - #https://twitter.com/photoshopguides
 
 # ↑ --------------------------
 
